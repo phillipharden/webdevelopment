@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 24px;
+}
+
+main {
+  background-color: #e1e1e1;
+  padding: 24px;
+  min-height: 85vh;
+}
+
+footer {
+  background-color: gray;
+  color: offwhite;
+  padding: 24px;
+}
